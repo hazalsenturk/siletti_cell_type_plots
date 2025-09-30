@@ -1,0 +1,18 @@
+Original Input,Standardized Label,Hex Code
+cerebral cortex,Cerebral Cortex,#969696
+cortex,Cerebral Cortex,#969696
+cerebral,Cerebral Cortex,#969696
+amygdala,Amygdala,#e31a1d
+amygdaloid,Amygdala,#e31a1d
+hippocampus,Hippocampus,#40ab5d
+hippo,Hippocampus,#40ab5d
+thalamus,Thalamus,#fdae6b
+hypothalamus,Hypothalamus,#fee6ce
+cerebellum,Cerebellum,#807dba
+cerebellar,Cerebellum,#807dba
+basal forebrain,Basal Forebrain,#262626
+basal,Basal Forebrain,#262626
+midbrain,Midbrain,#54278f
+pons,Pons,#bcbddc
+medulla,Medulla,#e0ecf4
+spinal cord,Spinal Cord,#efedf5

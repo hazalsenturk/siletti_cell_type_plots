@@ -1,0 +1,21 @@
+Original Input,Standardized Label,Hex Code
+GABA,GABA (typically inhibitory),#0202ff
+GABA HDC,Histidine +,#a52a2a
+GABA HDC VGLUT2,Histidine +,#a52b2a
+GABA VGLUT2,GABA + Glutamate,#a020f0
+GABA VGLUT3,GABA + Glutamate,#a020f0
+CHOL VGLUT1 VGLUT2,Acetylcholine +,#ffff04
+CHOL VGLUT3,Acetylcholine +,#ffff04
+DA VGLUT2,Dopamine +,#04ff01
+GLY,Glycine,#add8e5
+GLY VGLUT2,Glycine +,#add8e5
+HDC,Histidine +,#a52a2a
+HDC VGLUT2,Histidine +,#a52a2a
+SER VGLUT3,Serotonin,#ffa500
+VGLUT1,Glutamate (typically excitatory),#ff0000
+VGLUT2,Glutamate (typically excitatory),#ff0000
+VGLUT3,Glutamate (typically excitatory),#ff0000
+VGLUT1 VGLUT2,Glutamate (typically excitatory),#ff0000
+VGLUT1 VGLUT2 VGLUT3,Glutamate (typically excitatory),#ff0000
+VGLUT2 VGLUT3,Glutamate (typically excitatory),#ff0000
+,No annotation,#bebebe
